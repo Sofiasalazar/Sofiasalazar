@@ -24,7 +24,7 @@ Claude (Anthropic) · Claude Code · n8n · Supabase · Vercel · React · TypeS
 
 ## Background
 
-Engineer with an MBA. Process engineering and low-code automation. Multilingual (Spanish, English, German).
+Engineer, MSc with an MBA. Process engineering and low-code automation. Multilingual (Spanish, English, German).
 
 ---
 
